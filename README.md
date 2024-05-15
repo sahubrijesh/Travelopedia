@@ -28,6 +28,15 @@ To get a local copy up and running, follow these simple steps.
   ```sh
   npm install npm@latest -g
   ```
+  
+## Installation
+
+Clone the repo and install NPM packages:
+```sh
+git clone https://github.com/sahubrijesh/travelopedia.git
+cd travelopedia
+npm install
+```
 
 ### Development
 
