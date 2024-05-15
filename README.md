@@ -32,29 +32,25 @@ To get a local copy up and running, follow these simple steps.
 ### Development
 
 To start the development server, run:
-
--npm
-    ```sh
-    run dev
-    ```
+```sh
+npm run dev
+```
 
 ### Building
 
 For a production build, use:
 
--npm
-    ```sh
-    run build
-    ```
+```sh
+npm run build
+```
 
 ### Linting
 
 To lint the project files, run:
 
--npm
-    ```sh
-    run lint
-    ```
+```sh
+npm run lint
+```
 
 ## Contributing
 
